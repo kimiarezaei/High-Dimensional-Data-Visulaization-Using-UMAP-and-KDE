@@ -17,7 +17,7 @@ Outputs can also be saved as **GIFs** for dynamic 3D rotation and images from di
 ## 🖼️ Examples
 
 **3D UMAP (rotating GIF):**
-<img src="images/umap_3d.gif" alt="3D UMAP" width="500"/>
+![3D UMAP GIF](images/umap_3d.gif)
 
 **2D UMAP:**
 <img src="images/umap_2d.png" alt="2D UMAP" width="400"/>
