@@ -19,7 +19,7 @@ parser.add_argument('--data_dir',
                     help='Directory containing data')
 
 parser.add_argument('--save_dir', 
-                    default=rf'saved files',
+                    default=rf'images',
                     help='Directory for saving the result')
 
 args = parser.parse_args()
@@ -34,3 +34,4 @@ random.seed(42)
 plot_umap_3D(args.data_dir, args.save_dir)
 plot_umap_2D(args.data_dir, args.save_dir)
 plot_kde_class(args.data_dir, args.save_dir)
+
