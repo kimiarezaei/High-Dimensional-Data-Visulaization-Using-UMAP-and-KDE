@@ -22,7 +22,7 @@ Outputs can also be saved as **GIFs** for dynamic 3D rotation and images from di
 
 **2D UMAP:**
 
-![2D UMAP](images/umap_2d.png)
+<img src="images/umap_2d.png" alt="2D UMAP" width="400"/>
 
 **KDE:**
 
