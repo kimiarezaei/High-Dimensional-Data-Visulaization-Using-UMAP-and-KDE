@@ -17,12 +17,17 @@ Outputs can also be saved as **GIFs** for dynamic 3D rotation and images from di
 ## 🖼️ Examples
 
 **3D UMAP (rotating GIF):**
+
 ![3D UMAP GIF](images/umap_3d.gif)
 
+
 **2D UMAP:**
+
 <img src="images/umap_2d.png" alt="2D UMAP" width="400"/>
 
+
 **KDE:**
+
 <img src="images/kde_features_grade0_vs_grade1.png" alt="2D UMAP" width="400"/>
 
 
