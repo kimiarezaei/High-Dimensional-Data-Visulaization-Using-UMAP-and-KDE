@@ -18,14 +18,14 @@ Outputs can also be saved as **GIFs** for dynamic 3D rotation and images from di
 
 **3D UMAP (rotating GIF):**
 
-![3D UMAP GIF](saved files/umap_rotation.gif)
+![3D UMAP GIF](images/umap_rotation.gif)
 
 **2D UMAP:**
 
-![2D UMAP](saved files/umap_2d.png)
+![2D UMAP](images/umap_2d.png)
 
 **KDE:**
 
-![2D KDE](saved files/kde_features_grade0_vs_grade1.png)
+![2D KDE](images/kde_features_grade0_vs_grade1.png)
 
 
